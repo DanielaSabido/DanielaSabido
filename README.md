@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielaSabido
 - 👀 I’m interested in front-end, web designer
 - 🌱 I’m currently learning java, javascript and python
-- 📫 How to reach me with a email or MD 
+- 📫 How to reach me: email or MD 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: My dogs names are Lucas Thor and Oddie Oso
 
